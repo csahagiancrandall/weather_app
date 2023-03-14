@@ -1,0 +1,3 @@
+openweathermap.org/api key: f1137d21cc3407d4ef7ec3fed2ae1144
+
+original github: https://github.com/AsmrProg-YT/100-days-of-javascript
